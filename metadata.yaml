@@ -1,0 +1,27 @@
+_repo: The-People-That-Time-Forgot_552
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lost continents -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The People That Time Forgot
+url: http://www.gutenberg.org/ebooks/552
